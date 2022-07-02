@@ -1,6 +1,5 @@
 package com.github.sumeta.springboot.webflux.webclient.features.host
 
-import com.github.sumeta.springboot.webflux.webclient.webclients.worker.model.WorkerRequest
 import org.springframework.stereotype.Component
 import org.springframework.web.reactive.function.server.*
 

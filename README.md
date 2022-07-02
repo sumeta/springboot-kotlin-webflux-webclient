@@ -10,7 +10,6 @@ Template Project Springboot kotlin Coroutines API
 
 ### CURL
 
-
 #### Get IP
 ```
 curl --location --request GET 'http://localhost:8080/host/get'
@@ -26,3 +25,6 @@ curl --location --request POST 'http://localhost:8080/host/update' \
     }'
 ```
 
+
+## Docker
+docker build --tag=webclient:latest .

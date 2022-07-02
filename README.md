@@ -33,5 +33,5 @@ curl --location --request POST 'http://localhost:8080/host/update' \
 
 ## Docker
 ```
-docker build --tag=webclient:latest .
+docker build --tag=springboot-webclient:latest .
 ```
